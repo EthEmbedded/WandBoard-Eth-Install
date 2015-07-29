@@ -1,10 +1,8 @@
 # WandBoard-Eth-Install
-# [Eth(Embedded)](http://www.ethembedded.com) [Wandoard](http://www.wandboard.org/)/[Ethereum](https://www.ethereum.org/) Install Instructions
+# [Eth(Embedded)](http://www.ethembedded.com) [Wandboard.org](http://www.wandboard.org/)/[Ethereum](https://www.ethereum.org/) Install Instructions
 
 ### Supported Boards:
-- Wandboard Quad -***Recommended*** For best performance
-- Wandboard Dual
-- Wandboard Solo
+- Wandboard Quad
 
 ### Materials Needed:
 - Wandboard development board
