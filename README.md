@@ -33,7 +33,7 @@
 	- login : `wandboard`
 	- password: `wandboard`
 
-6. At this point lets take the opportunity to change the `odroid` users password: 
+6. At this point lets take the opportunity to change the `wandboard` users password: 
 
 	`passwd` and follow on screen instructions...
 	
@@ -46,7 +46,7 @@
 
 	`passwd` and follow on screen instructions...
 
-8. Next lets re-login as the odroid user and expand partition #2 to utilize the entire SD Card: 
+8. Next lets re-login as the `wandboard` user and expand partition #2 to utilize the entire SD Card: 
 
 	`sudo fdisk /dev/mmcblk0`
 	
