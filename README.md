@@ -45,9 +45,9 @@
 	
 7. Now lets download & unzip the installer scripts and choose eth-installer.sh OR geth-installer.sh:
 
-	`wget https://github.com/EthEmbedded/WandBoard-Eth-Install/archive/0.1.8.tar.gz`
+	`wget https://github.com/EthEmbedded/WandBoard-Eth-Install/archive/0.1.9.tar.gz`
 
-	`tar -xvzf v0.1.8.tar.gz`
+	`tar -xvzf v0.1.9.tar.gz`
 	
 	`cd Wandboard-Eth-Install-0.1.8`
 
